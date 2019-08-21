@@ -58,6 +58,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.1.9.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.1.9.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.1.9.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.17" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-mail:2.1.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.1.9.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.sun.mail:javax.mail:1.6.2" level="project" />
